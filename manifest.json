@@ -1,0 +1,14 @@
+{
+  "name": "TRgames",
+  "short_name": "TRG",
+  "lang": "uk-UA",
+  "start_url": "https://tools.100zona.com/manifest.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "105x105",
+      "type": "image"
+    }
+  ]
+}
